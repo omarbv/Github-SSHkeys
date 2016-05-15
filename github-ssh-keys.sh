@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script for Mac OS X :)
 # Example: ./github-ssh-keys.sh https://github.com/github
+# Author: @omarbv
 
 script_name=$(basename "$0")
 url=$1
